@@ -1,3 +1,4 @@
 # dectobin
-Self assignment\n
+Self assignment
+
 ⚠️does not work⚠️
